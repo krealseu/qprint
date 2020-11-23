@@ -2,6 +2,12 @@
 
 ## Example
 ```
+Cargo.toml
+[dependencies]
+qprint = {git="https://github.com/krealseu/qprint.git"}
+
+
+src.rs
 use qprint::println as qprintln;
 
 fn print(){
