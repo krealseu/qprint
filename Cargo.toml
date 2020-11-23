@@ -1,0 +1,7 @@
+[package]
+name = "qprint"
+version = "0.0.1"
+authors = ["anemone"]
+edition = "2018"
+
+[dependencies]
